@@ -4,7 +4,7 @@ This repository contains very simple 16-bit DLL definition of UTF-8 to 1250 code
 
 ## How to compile this code?
 
-As this is very simple code of (de facto) empty library, which just include resources, the solution should comile for 16-bit targets using any compatible compiler. It was prepared using (and mostly to compile) using Open Watcom and was tested only in it.
+As this is very simple code of (de facto) empty library, which just include resources, the solution should compile for 16-bit targets using any compatible compiler. It was prepared using (and mostly to compile) using Open Watcom and was tested only in it.
 
 ## Disclaimer
 
