@@ -1,6 +1,7 @@
 # Codepage 1250, 16-bit DLL definition
 
 This repository contains very simple 16-bit DLL definition of UTF-8 to 1250 codepage conversion codes.
+This library was created especially for the [SimpleNoter](https://github.com/Magnetic-Fox/SimpleNoter) project.
 
 ## How to compile this code?
 
