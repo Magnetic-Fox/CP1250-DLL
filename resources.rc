@@ -34,7 +34,7 @@ BEGIN
     IDS_AUTHOR      "Magnetic-Fox"
 
     IDS_ENCODEERROR "."
-    IDS_DECODEERROR "?"
+    IDS_DECODEERROR "×"
     IDS_UTFERROR    "~"
 END
 
